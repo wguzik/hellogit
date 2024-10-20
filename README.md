@@ -1,1 +1,2 @@
-# This is readme, hello Git!
+# This is readme, hello Git, muzyka bit!
+## Ten commit to jest hit.
